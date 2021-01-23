@@ -2,7 +2,7 @@
   "name": "Egg Scrambler",
   "description": "Makes discord unusable by converting all messages into eggs",
   "version": "1.0.3",
-  "author": [
+  "authors": [
     "Fjorge",
     "Hax",
     "Ducko"

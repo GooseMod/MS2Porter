@@ -2,7 +2,7 @@
   "name": "Username In Author",
   "description": "Adds username to message's author if they have a nickname",
   "version": "1.0.3",
-  "author": "Ducko",
+  "authors": "Ducko",
   "tags": [
     "messages"
   ],

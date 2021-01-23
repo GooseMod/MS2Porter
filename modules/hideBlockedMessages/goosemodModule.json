@@ -2,7 +2,7 @@
   "name": "Hide Blocked Messages",
   "description": "Completely hides blocked messages",
   "version": "1.0.0",
-  "author": "Ducko",
+  "authors": "Ducko",
   "tags": [
     "messages"
   ],

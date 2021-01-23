@@ -2,7 +2,7 @@
   "name": "Nickname Panel",
   "description": "Shows nickname in account panel instead of username (but still username on hover), idea based on Zerebos' BD plugin \"AccountDetailsPlus\"",
   "version": "1.0.3",
-  "author": "Ducko",
+  "authors": "Ducko",
   "tags": [
     "ui"
   ],

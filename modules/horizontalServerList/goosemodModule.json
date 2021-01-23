@@ -2,7 +2,7 @@
   "name": "Horizontal Server List",
   "description": "Moves the server list from the left to the top of Discord.",
   "version": "2.0.0",
-  "author": "Gibbu",
+  "authors": "Gibbu",
   "tags": [
     "ui"
   ],

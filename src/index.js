@@ -52,7 +52,7 @@ ${fileContent}`);
     name,
     description,
     version,
-    author,
+    authors: author,
 
     tags: [ category ],
     main: 'index.js'

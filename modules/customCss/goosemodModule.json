@@ -2,7 +2,7 @@
   "name": "Custom CSS",
   "description": "Allows entering of your own custom CSS in a code editor with syntax highlighting",
   "version": "1.1.4",
-  "author": "Ducko",
+  "authors": "Ducko",
   "tags": [
     "backend"
   ],

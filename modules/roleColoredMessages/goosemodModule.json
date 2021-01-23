@@ -2,7 +2,7 @@
   "name": "Role Colored Messages",
   "description": "Makes message text color the same as the sender's role color",
   "version": "1.2.2",
-  "author": "Ducko",
+  "authors": "Ducko",
   "tags": [
     "messages"
   ],

@@ -2,7 +2,7 @@
   "name": "Censor Rude Words",
   "description": "Censors rude words which can be toggled in a setting item",
   "version": "0.1.0",
-  "author": "Ducko",
+  "authors": "Ducko",
   "tags": [
     "messages"
   ],

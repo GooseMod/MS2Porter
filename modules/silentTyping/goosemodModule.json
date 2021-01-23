@@ -2,7 +2,7 @@
   "name": "Silent Typing",
   "description": "Makes Discord not send your typing indicator",
   "version": "1.0.4",
-  "author": "Ducko",
+  "authors": "Ducko",
   "tags": [
     "backend"
   ],

@@ -2,7 +2,7 @@
   "name": "Sticky Notes",
   "description": "Allows you to create temporary sticky notes on the screen. Open new sticky notes with Ctrl+D or the New Note button.",
   "version": "2.2.0",
-  "author": [
+  "authors": [
     "Fjorge",
     "Liam The Protogen (441384103946878987)"
   ],

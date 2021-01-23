@@ -2,7 +2,7 @@
   "name": "Overlay User Panel",
   "description": "Overlays user panel buttons (mute, deafen, etc.) to above the user panel to the right",
   "version": "2.1.1",
-  "author": "Ducko",
+  "authors": "Ducko",
   "tags": [
     "ui"
   ],

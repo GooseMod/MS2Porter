@@ -2,7 +2,7 @@
   "name": "Better Channel Indicators",
   "description": "Adds a nice touch to Discord's current channel indicators.",
   "version": "0",
-  "author": "LuckFire",
+  "authors": "LuckFire",
   "tags": [
     "ui"
   ],

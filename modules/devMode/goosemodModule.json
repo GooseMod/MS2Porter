@@ -2,7 +2,7 @@
   "name": "Dev Mode",
   "description": "Enables developer mode (experiments, etc.)",
   "version": "3.0.1",
-  "author": "Ducko",
+  "authors": "Ducko",
   "tags": [
     "backend"
   ],

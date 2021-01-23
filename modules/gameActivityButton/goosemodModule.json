@@ -2,7 +2,7 @@
   "name": "Game Activity Button",
   "description": "Adds button to account panel which enables / disables game activity (showing what game you are playing), idea and icon from Egrodo's BD plugin",
   "version": "1.0.3",
-  "author": "Ducko",
+  "authors": "Ducko",
   "tags": [
     "quick-actions"
   ],

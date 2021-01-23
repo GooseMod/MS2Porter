@@ -2,7 +2,7 @@
   "name": "Hide Quick Reactions",
   "description": "Hides the quick reactions (top 4 emoji) on the message context menus",
   "version": "1.0.0",
-  "author": "Ducko",
+  "authors": "Ducko",
   "tags": [
     "ui"
   ],

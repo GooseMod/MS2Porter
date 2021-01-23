@@ -2,7 +2,7 @@
   "name": "Avatar Data Attribute",
   "description": "Adds data attribute to avatar elements, as some CSS tweaks / modules rely on it",
   "version": "1.0.0",
-  "author": "Ducko",
+  "authors": "Ducko",
   "tags": [
     "backend"
   ],
