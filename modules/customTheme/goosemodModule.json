@@ -1,0 +1,10 @@
+{
+  "name": "Custom Theme",
+  "description": "Choose your own colors for your own theme",
+  "version": "0.1.0",
+  "author": "Ducko",
+  "tags": [
+    "themes"
+  ],
+  "main": "index.js"
+}

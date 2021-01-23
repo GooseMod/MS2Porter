@@ -1,0 +1,10 @@
+{
+  "name": "Better Message Deletion",
+  "description": "Messages only turn red instead of completely disappearing",
+  "version": "3.1.2",
+  "author": "Ducko",
+  "tags": [
+    "messages"
+  ],
+  "main": "index.js"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Relaunch",
+  "description": "Easily relaunch Discord, completely. (Press `F4` to relaunch.)",
+  "version": "1.3.0",
+  "author": "441384103946878987",
+  "tags": [
+    "quick-actions"
+  ],
+  "main": "index.js"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Message Scrambler",
+  "description": "Makes discord unusable by converting all messages into random text",
+  "version": "1.1.0",
+  "author": "Fjorge",
+  "tags": [
+    "fun"
+  ],
+  "main": "index.js"
+}

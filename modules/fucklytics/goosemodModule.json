@@ -1,0 +1,10 @@
+{
+  "name": "Fucklytics",
+  "description": "Blocks Discord (Science) analytics, crash reports and Sentry",
+  "version": "2.1.0",
+  "author": "Ducko",
+  "tags": [
+    "backend"
+  ],
+  "main": "index.js"
+}

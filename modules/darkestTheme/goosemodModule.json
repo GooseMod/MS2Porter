@@ -1,0 +1,10 @@
+{
+  "name": "Darkest Theme",
+  "description": "Pure dark theme",
+  "version": "1.0.3",
+  "author": "Ducko",
+  "tags": [
+    "themes"
+  ],
+  "main": "index.js"
+}

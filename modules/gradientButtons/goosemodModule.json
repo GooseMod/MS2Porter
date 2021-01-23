@@ -1,0 +1,10 @@
+{
+  "name": "Gradient Buttons",
+  "description": "Add some spice to your buttons with gradients!",
+  "version": "0",
+  "author": "LuckFire",
+  "tags": [
+    "ui"
+  ],
+  "main": "index.js"
+}

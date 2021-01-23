@@ -1,0 +1,14 @@
+{
+  "name": "Visual Tweaks",
+  "description": "A variety of minor visual tweaks",
+  "version": "2.7.0",
+  "author": [
+    "Ducko",
+    "Fjorge",
+    "Liam The Protogen"
+  ],
+  "tags": [
+    "ui"
+  ],
+  "main": "index.js"
+}

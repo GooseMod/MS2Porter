@@ -1,0 +1,10 @@
+{
+  "name": "VSCode-like Toasts",
+  "description": "Makes GooseMod toasts similar to VSCode's (in the bottom right above the message box and larger)",
+  "version": "1.0.0",
+  "author": "Ducko",
+  "tags": [
+    "ui"
+  ],
+  "main": "index.js"
+}

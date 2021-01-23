@@ -1,0 +1,10 @@
+{
+  "name": "Duvbox Theme",
+  "description": "Based on the Vim theme, named Gruvbox.",
+  "version": "1",
+  "author": "CircuitRCAY",
+  "tags": [
+    "themes"
+  ],
+  "main": "index.js"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "RainbowCord",
+  "description": "Rainbow mode",
+  "version": "2.0.3",
+  "author": "Fjorge",
+  "tags": [
+    "fun"
+  ],
+  "main": "index.js"
+}

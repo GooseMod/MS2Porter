@@ -1,0 +1,10 @@
+{
+  "name": "Protoncord",
+  "description": "A sleek, modern UI inspired by the layout of ProtonVPN.",
+  "version": "0",
+  "author": "Niko",
+  "tags": [
+    "themes"
+  ],
+  "main": "index.js"
+}

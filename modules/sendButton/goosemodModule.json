@@ -1,0 +1,10 @@
+{
+  "name": "Send Button",
+  "description": "Adds a send button, similair to the mobile application.",
+  "version": "1.0.0",
+  "author": "441384103946878987",
+  "tags": [
+    "quick-actions"
+  ],
+  "main": "index.js"
+}

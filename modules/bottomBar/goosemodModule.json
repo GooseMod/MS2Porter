@@ -1,0 +1,10 @@
+{
+  "name": "Bottom Bar",
+  "description": "A nice, simple looking, bottom bar. Inspired by CapnKitten's Spotify Discord theme.",
+  "version": "1",
+  "author": "LuckFire",
+  "tags": [
+    "ui"
+  ],
+  "main": "index.js"
+}

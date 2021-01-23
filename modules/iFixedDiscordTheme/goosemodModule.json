@@ -1,0 +1,10 @@
+{
+  "name": "\"i fixed discord\" Theme",
+  "description": "Makes light theme bearable. (Use in light mode with dark sidebar enabled.)",
+  "version": "0",
+  "author": "jo",
+  "tags": [
+    "themes"
+  ],
+  "main": "index.js"
+}

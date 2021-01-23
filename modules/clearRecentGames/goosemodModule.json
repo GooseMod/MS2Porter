@@ -1,0 +1,10 @@
+{
+  "name": "Clear Recent Games",
+  "description": "Adds setting button which clears recent games (in \"Game Activity\")",
+  "version": "1.0.2",
+  "author": "Ducko",
+  "tags": [
+    "quick-actions"
+  ],
+  "main": "index.js"
+}

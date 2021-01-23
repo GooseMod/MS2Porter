@@ -1,0 +1,10 @@
+{
+  "name": "Darker Theme",
+  "description": "Darker theme but still with contrast",
+  "version": "1.0.2",
+  "author": "Ducko",
+  "tags": [
+    "themes"
+  ],
+  "main": "index.js"
+}

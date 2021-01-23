@@ -1,0 +1,10 @@
+{
+  "name": "RadialStatus",
+  "description": "Changes the status icons to wrap around the avatar.",
+  "version": "1.0.0",
+  "author": "Gibbu",
+  "tags": [
+    "ui"
+  ],
+  "main": "index.js"
+}

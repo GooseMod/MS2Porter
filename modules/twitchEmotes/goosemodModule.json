@@ -1,0 +1,10 @@
+{
+  "name": "Twitch Emotes",
+  "description": "Converts text into images for Twitch global emotes + BetterTTV emotes",
+  "version": "2.2.3",
+  "author": "Ducko",
+  "tags": [
+    "messages"
+  ],
+  "main": "index.js"
+}

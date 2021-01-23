@@ -1,0 +1,10 @@
+{
+  "name": "OwOCord",
+  "description": "Makes Discowd mowe owo.",
+  "version": "0.4",
+  "author": "ComfyDev",
+  "tags": [
+    "fun"
+  ],
+  "main": "index.js"
+}

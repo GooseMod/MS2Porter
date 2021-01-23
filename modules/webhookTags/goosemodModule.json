@@ -1,0 +1,10 @@
+{
+  "name": "Webhook Tags",
+  "description": "Replace bot tags with webhook tags for webhook messages.",
+  "version": "1.0.0",
+  "author": "Ben855",
+  "tags": [
+    "ui"
+  ],
+  "main": "index.js"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "WYSIWYG Messages",
+  "description": "Makes messages WYSIWYG-like (like in the message sending box)",
+  "version": "1.3.3",
+  "author": "Ducko",
+  "tags": [
+    "messages"
+  ],
+  "main": "index.js"
+}

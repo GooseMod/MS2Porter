@@ -1,0 +1,10 @@
+{
+  "name": "Discord Debug",
+  "description": "Setting option with debug information about Discord",
+  "version": "1.0.2",
+  "author": "Ducko (506482395269169153)",
+  "tags": [
+    "debug"
+  ],
+  "main": "index.js"
+}

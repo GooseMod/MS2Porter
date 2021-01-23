@@ -1,0 +1,10 @@
+{
+  "name": "Hide Message",
+  "description": "Adds a hide message option to all message's context menus which temporarily hides it",
+  "version": "1.0.0",
+  "author": "Ducko",
+  "tags": [
+    "ui"
+  ],
+  "main": "index.js"
+}

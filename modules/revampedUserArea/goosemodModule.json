@@ -1,0 +1,10 @@
+{
+  "name": "RevampedUserArea",
+  "description": "A compact, better looking user area.",
+  "version": "0",
+  "author": "LuckFire",
+  "tags": [
+    "ui"
+  ],
+  "main": "index.js"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Nicer User Connections",
+  "description": "Adds a bit of a boom-shaka-laka to those user connections.",
+  "version": "1.0.3",
+  "author": "LuckFire",
+  "tags": [
+    "ui"
+  ],
+  "main": "index.js"
+}

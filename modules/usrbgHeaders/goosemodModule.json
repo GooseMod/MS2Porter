@@ -1,0 +1,10 @@
+{
+  "name": "Usrbg - Headers",
+  "description": "[Header Snippets by Ducko] A pure CSS database of user requested backgrounds for Discord.",
+  "version": "1.0.0",
+  "author": "Discord Custom Covers",
+  "tags": [
+    "ui"
+  ],
+  "main": "index.js"
+}

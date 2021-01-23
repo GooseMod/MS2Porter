@@ -1,0 +1,10 @@
+{
+  "name": "Hide Blocked Messages",
+  "description": "Completely hides blocked messages",
+  "version": "1.0.0",
+  "author": "Ducko",
+  "tags": [
+    "messages"
+  ],
+  "main": "index.js"
+}

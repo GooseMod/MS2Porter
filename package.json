@@ -1,0 +1,23 @@
+{
+  "name": "ms2porter",
+  "version": "1.0.0",
+  "description": "Ports MS1 modules to MS2 automatically.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GooseMod/MS2Porter.git"
+  },
+  "author": "GooseMod",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GooseMod/MS2Porter/issues"
+  },
+  "homepage": "https://github.com/GooseMod/MS2Porter#readme",
+  "dependencies": {
+    "glob": "^7.1.6"
+  },
+  "type": "module"
+}

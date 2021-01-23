@@ -1,0 +1,10 @@
+{
+  "name": "Couve Theme",
+  "description": "A new look to discord",
+  "version": "0",
+  "author": "A user",
+  "tags": [
+    "themes"
+  ],
+  "main": "index.js"
+}

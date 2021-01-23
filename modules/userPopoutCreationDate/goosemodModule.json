@@ -1,0 +1,10 @@
+{
+  "name": "User Popout Creation Date",
+  "description": "Adds user's creation date to popouts",
+  "version": "1.0.2",
+  "author": "Ducko",
+  "tags": [
+    "ui"
+  ],
+  "main": "index.js"
+}

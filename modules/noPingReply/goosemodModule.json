@@ -1,0 +1,10 @@
+{
+  "name": "Disable ping reply",
+  "description": "Disables Discord automatically pinging when you are replying",
+  "version": "1.0.0",
+  "author": "Lith",
+  "tags": [
+    "backend"
+  ],
+  "main": "index.js"
+}

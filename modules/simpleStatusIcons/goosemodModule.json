@@ -1,0 +1,10 @@
+{
+  "name": "Simple Status Icons",
+  "description": "Makes all status icons circular instead of shapes for Idle and Do Not Disturb (but keeps mobile a phone outline)",
+  "version": "1.0.0",
+  "author": "Ducko",
+  "tags": [
+    "ui"
+  ],
+  "main": "index.js"
+}
