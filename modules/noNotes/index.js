@@ -26,7 +26,6 @@ gooseModHandlers: {
 
 
 
-    "Hides the notes on user profile modals. (Does not apply to the user popout.)",
 
 
 }
