@@ -73,8 +73,6 @@ ${fileContent}`);
 
   writeFileSync(`${baseDir}/index.js`, jsCode);
 
-  console.log(jsCode);
-
   modulesJsCode.push(`['GooseMod/MS2Porter', '${await new Promise((res) => exec(`git rev-parse HEAD`, (_err, stdout) => res(stdout.trim())))}', '/modules/${rawName}'],`);
 }
 
