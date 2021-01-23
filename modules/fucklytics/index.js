@@ -63,7 +63,7 @@ const disableSentry = () => {
 };
 
 export default {
-gooseModHandlers: {
+goosemodHandlers: {
   onImport: async function() {
     setAnalytics(blocking.science);
     setSentry(blocking.sentry);

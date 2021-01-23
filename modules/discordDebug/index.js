@@ -1,7 +1,7 @@
 const version = '1.0.2';
 
 export default {
-gooseModHandlers: {
+goosemodHandlers: {
   onImport: async function () {
   },
 

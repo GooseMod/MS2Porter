@@ -15,7 +15,7 @@ function owoify() {
 }
 
 export default {
-gooseModHandlers: {
+goosemodHandlers: {
 	onImport: async function () {
 		owoify();
 	},

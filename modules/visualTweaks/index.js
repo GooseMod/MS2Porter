@@ -1,7 +1,7 @@
 let version = "2.7.0";
 
 export default {
-gooseModHandlers: {
+goosemodHandlers: {
   onImport: async function () {
     goosemodScope.logger.debug("visualTweaks", "Enabling Visual Tweaks");
 

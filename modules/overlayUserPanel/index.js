@@ -9,7 +9,7 @@ let sheet = window.document.styleSheets[0];
 let el;
 
 export default {
-gooseModHandlers: {
+goosemodHandlers: {
   onImport: async function () {
     sheet.insertRule(`body.user-panel-columns [aria-label="User area"] .container-3baos1 {
       flex-wrap: wrap;

@@ -5,7 +5,7 @@ let el;
 const css = `@import url("https://raw.githack.com/DiscordStyles/Slate/master/Slate.theme.css");`;
 
 export default {
-gooseModHandlers: {
+goosemodHandlers: {
   onImport: async function () {
     el = document.createElement('style');
 

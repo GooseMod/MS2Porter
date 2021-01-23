@@ -3,7 +3,7 @@ const version = "1.0.0";
 let style;
 
 export default {
-gooseModHandlers: {
+goosemodHandlers: {
   onImport: async () => {
     style = document.createElement("style");
     document.head.appendChild(style);

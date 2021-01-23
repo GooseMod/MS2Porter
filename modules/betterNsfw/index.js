@@ -6,7 +6,7 @@ let timeout;
 let unpatch;
 
 export default {
-gooseModHandlers: {
+goosemodHandlers: {
   onImport: async () => {
     style = document.createElement("style");
     style.appendChild(

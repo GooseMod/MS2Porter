@@ -13,7 +13,7 @@ const forceUpdate = () => {
 };
 
 export default {
-gooseModHandlers: {
+goosemodHandlers: {
   onImport: async () => {
     style = document.createElement("style");
     style.appendChild(

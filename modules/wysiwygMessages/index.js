@@ -88,7 +88,7 @@ function setQuotes(c) {
 }
 
 export default {
-gooseModHandlers: {
+goosemodHandlers: {
   onImport: async function () {
     sheet.insertRule(`body.gm-wysiwyg-italics-enabled .messagesWrapper-1sRNjr .markup-2BOw-j em::before, body.gm-wysiwyg-italics-enabled .messagesWrapper-1sRNjr .markup-2BOw-j em::after {
       content: '*';

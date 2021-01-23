@@ -5,7 +5,7 @@ let el;
 const css = `@import url("https://raw.githack.com/LuckFire/BottomBar/master/bottombar.css");`;
 
 export default {
-gooseModHandlers: {
+goosemodHandlers: {
   onImport: async function () {
     el = document.createElement('style');
 

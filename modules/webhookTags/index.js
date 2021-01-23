@@ -3,7 +3,7 @@ const version = "1.0.0";
 const { inject, uninject } = goosemodScope.patcher;
 
 export default {
-gooseModHandlers: {
+goosemodHandlers: {
   onImport: async () => {
     const { findByProps, common } = goosemodScope.webpackModules;
     const MessageTimestamp = findByProps("MessageTimestamp");

@@ -226,7 +226,7 @@ function rmMod() {
 };
 
 export default {
-gooseModHandlers: {
+goosemodHandlers: {
     // Importing module
     onImport: async function () {
         goosemodScope.logger.debug('Sticky Notes', 'Starting...');

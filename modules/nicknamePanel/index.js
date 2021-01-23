@@ -23,7 +23,7 @@ const mouseLeave = () => {
 };
 
 export default {
-gooseModHandlers: {
+goosemodHandlers: {
   onImport: async function () {
     interval = setInterval(run, 300);
 

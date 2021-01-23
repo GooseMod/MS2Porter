@@ -6,7 +6,7 @@ const css = `.buttons-3JBrkn > button, .channel-2QD9_O[href="/store"], .item-PXv
 }`;
 
 export default {
-gooseModHandlers: {
+goosemodHandlers: {
   onImport: async () => {
     style = document.createElement("style");
     document.head.appendChild(style);

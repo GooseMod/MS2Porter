@@ -1,7 +1,7 @@
 let version = '1.0.2';
 
 export default {
-gooseModHandlers: {
+goosemodHandlers: {
   onImport: async function () {
     if (window.localStorage === undefined) {
       alert('Clear Recent Games: Could not find localStorage, will not work')

@@ -3,7 +3,7 @@ let version = '1.0.0';
 let el;
 
 export default {
-gooseModHandlers: {
+goosemodHandlers: {
   onImport: async function () {
     goosemodScope.patcher.contextMenu.add('message',
       {

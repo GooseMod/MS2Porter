@@ -207,7 +207,7 @@ const css = `/* Menu Items (right click, server menu, message actions, ect.) */
 }`;
 
 export default {
-gooseModHandlers: {
+goosemodHandlers: {
   onImport: async function () {
     el = document.createElement('style');
 

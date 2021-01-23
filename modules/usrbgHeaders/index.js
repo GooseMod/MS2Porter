@@ -63,7 +63,7 @@ const css = `@import url('https://discord-custom-covers.github.io/usrbg/dist/usr
 }`;
 
 export default {
-gooseModHandlers: {
+goosemodHandlers: {
   onImport: async function () {
     el = document.createElement('style');
 

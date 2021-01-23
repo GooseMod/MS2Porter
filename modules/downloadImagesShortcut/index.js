@@ -35,7 +35,7 @@ const hoverHandler = (e) => {
 };
 
 export default {
-gooseModHandlers: {
+goosemodHandlers: {
   onImport: async function () {
     document.addEventListener('keypress', keypressHandler);
     document.addEventListener('mousemove', hoverHandler);

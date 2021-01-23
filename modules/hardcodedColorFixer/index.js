@@ -11,7 +11,7 @@ const getVariablesArr = (css) => css.split(';').map((x) => x.trim()).filter((x) 
 
 
 export default {
-gooseModHandlers: {
+goosemodHandlers: {
   onImport: async function () {
     /*let sheet = window.document.styleSheets[0];
 

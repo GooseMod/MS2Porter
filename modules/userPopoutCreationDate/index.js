@@ -39,7 +39,7 @@ const run = () => {
 };
 
 export default {
-gooseModHandlers: {
+goosemodHandlers: {
   onImport: async function () {
     getUser = goosemodScope.webpackModules.findByProps('getUser');
     getMembers = goosemodScope.webpackModules.findByProps('getNick');

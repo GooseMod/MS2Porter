@@ -7,7 +7,7 @@ const css = `.groupStart-23k01U:not(.message-2qnXI6) {
 }`;
 
 export default {
-gooseModHandlers: {
+goosemodHandlers: {
   onImport: async function () {
     el = document.createElement('style');
 

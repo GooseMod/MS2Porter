@@ -64,7 +64,7 @@ const evaluateSettings = (value) => {
 };
 
 export default {
-gooseModHandlers: {
+goosemodHandlers: {
   onImport: async () => {
     style = document.createElement("style");
     evaluateSettings(settings.floating);

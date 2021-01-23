@@ -83,7 +83,7 @@ const checkForChange = () => {
 }
 
 export default {
-gooseModHandlers: {
+goosemodHandlers: {
   onImport: async function () {
     const mod = goosemodScope.webpackModules.findByProps("guildPositions");
     mod.addChangeListener(checkForChange);

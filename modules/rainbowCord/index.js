@@ -62,7 +62,7 @@ const setTweak = (tweakName, value) => {
 };
 
 export default {
-gooseModHandlers: {
+goosemodHandlers: {
   onImport: async function () {
     goosemodScope.logger.debug('rainbowMode', 'Enabling Rainbow Tweaks');
   },

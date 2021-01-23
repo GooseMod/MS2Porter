@@ -62,7 +62,7 @@ const getFileUpload = async () => {
 };
 
 export default {
-gooseModHandlers: {
+goosemodHandlers: {
   onImport: async function() {
     goosemodScope.logger.debug('customSounds', 'Overriding Audio with a proxy function');
 

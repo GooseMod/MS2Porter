@@ -7,7 +7,7 @@ let version = '1.1.3';
 const sleep = (ms) => new Promise(resolve => setTimeout(resolve, ms));
 
 export default {
-gooseModHandlers: {
+goosemodHandlers: {
   onImport: async function () {
     let mod = goosemodScope.webpackModules.findByProps("jumpToMessage", "_sendMessage");
     originalFunc = mod.sendMessage;

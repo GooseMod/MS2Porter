@@ -54,7 +54,7 @@ const setup = () => {
 };
 
 export default {
-gooseModHandlers: {
+goosemodHandlers: {
   onImport: async function () {
   },
 

@@ -5,7 +5,7 @@ let el;
 const css = `@import url("https://raw.githack.com/CircuitRCAY/Duvbox/master/duvbox.css");`;
 
 export default {
-gooseModHandlers: {
+goosemodHandlers: {
   onImport: async function () {
     el = document.createElement('style');
 

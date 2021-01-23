@@ -1,7 +1,7 @@
 const version = "1.1.0";
 
 export default {
-gooseModHandlers: {
+goosemodHandlers: {
   onImport: async () => {
     goosemodScope.patcher.contextMenu.add("message", {
       label: "Copy Raw",

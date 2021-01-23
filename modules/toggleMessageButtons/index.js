@@ -33,7 +33,7 @@ const updateContextItem = async (val) => {
 };
 
 export default {
-gooseModHandlers: {
+goosemodHandlers: {
   onImport: async () => {
     style = document.createElement("style");
     style.appendChild(document.createTextNode(css));

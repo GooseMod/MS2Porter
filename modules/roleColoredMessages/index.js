@@ -27,7 +27,7 @@ function rgb2hsl(r, g, b) {
 }
 
 export default {
-gooseModHandlers: {
+goosemodHandlers: {
   onImport: async function() {
   },
 

@@ -5,7 +5,7 @@ let style;
 const { inject, uninject } = goosemodScope.patcher;
 
 export default {
-gooseModHandlers: {
+goosemodHandlers: {
   onImport: async () => {
     style = document.createElement("style");
     style.appendChild(

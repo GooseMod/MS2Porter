@@ -7,7 +7,7 @@ const css = `.ephemeral-1PsL1r {
 }`;
 
 export default {
-gooseModHandlers: {
+goosemodHandlers: {
   onImport: async function () {
     el = document.createElement('style');
 

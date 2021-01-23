@@ -30,7 +30,7 @@ const setup = () => {
 };
 
 export default {
-gooseModHandlers: {
+goosemodHandlers: {
   onImport: async function () {
     words = words.map((x) => ({ word: x, enabled: true, censored: [...x].map((y, i) => i >= x.length / 4 && i < x.length - x.length / 4 ? '\\*' : y).join('') }));
 

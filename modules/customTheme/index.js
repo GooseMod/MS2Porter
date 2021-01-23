@@ -1,7 +1,7 @@
 let version = '0.1.0';
 
 export default {
-gooseModHandlers: {
+goosemodHandlers: {
   onImport: async function () {
     let sheet = window.document.styleSheets[0];
 

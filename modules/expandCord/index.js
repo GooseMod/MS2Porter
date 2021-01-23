@@ -13,7 +13,7 @@ function expand() {
 }
 
 export default {
-gooseModHandlers: {
+goosemodHandlers: {
   // Activating module
   onImport: async function () {
     goosemodScope.logger.debug('expandCord', 'e x p a n d i n g..');

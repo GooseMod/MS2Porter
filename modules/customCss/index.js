@@ -18,7 +18,7 @@ const updateHighlight = () => {
 };
 
 export default {
-gooseModHandlers: {
+goosemodHandlers: {
   onImport: async function () {
     styleEl = document.createElement('style');
     

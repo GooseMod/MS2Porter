@@ -5,7 +5,7 @@ let el;
 const css = `@import url("https://raw.githack.com/Discord-Custom-Covers/usrbg/master/snippets/modals.css"); @import url("https://raw.githack.com/Discord-Custom-Covers/usrbg/master/snippets/userPopouts.css");`;
 
 export default {
-gooseModHandlers: {
+goosemodHandlers: {
   onImport: async function () {
     el = document.createElement('style');
 

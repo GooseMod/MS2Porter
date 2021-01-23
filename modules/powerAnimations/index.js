@@ -2182,7 +2182,7 @@ const setUserButtons = (value) => {
 };
 
 export default {
-gooseModHandlers: {
+goosemodHandlers: {
   onImport: async () => {
     setPing(settings.pings);
     setModals(settings.modals);

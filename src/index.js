@@ -65,7 +65,7 @@ ${fileContent}`);
 
   let jsCode = readFileSync(fullPath, 'utf8');
 
-  jsCode = jsCode.replace(/let obj = (.*);.*obj/gs, (_, obj) => `export default ${obj.replace('{', '{\ngooseModHandlers: {').replace(/}$/, '}\n}')};`); // Change old eval returning -> export default
+  jsCode = jsCode.replace(/let obj = (.*);.*obj/gs, (_, obj) => `export default ${obj.replace('{', '{\ngoosemodHandlers: {').replace(/}$/, '}\n}')};`); // Change old eval returning -> export default
 
   jsCode = jsCode.replace(/^[ \t]*(name|description|author|version).*(\n{2,})?/gm, ''); // Remove metadata keys (and any extra newlines after them)
 

@@ -5,7 +5,7 @@ let el;
 const css = `.wrapper-3_530D { display: none; }`;
 
 export default {
-gooseModHandlers: {
+goosemodHandlers: {
   onImport: async function () {
     el = document.createElement('style');
 

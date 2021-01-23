@@ -15,7 +15,7 @@ const css = `.gm-toast {
 }`;
 
 export default {
-gooseModHandlers: {
+goosemodHandlers: {
   onImport: async function () {
     el = document.createElement('style');
 

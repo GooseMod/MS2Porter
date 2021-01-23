@@ -3,7 +3,7 @@ const version = "1.3.0";
 let keydownHandler;
 
 export default {
-gooseModHandlers: {
+goosemodHandlers: {
   onImport: async () => {
     const createModal = async () => {
       const { React } = goosemodScope.webpackModules.common;

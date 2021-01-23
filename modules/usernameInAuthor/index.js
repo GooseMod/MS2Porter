@@ -33,7 +33,7 @@ const updateMembers = () => {
 };
 
 export default {
-gooseModHandlers: {
+goosemodHandlers: {
   onImport: async function () {
     intervals = [];
 

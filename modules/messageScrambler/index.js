@@ -21,7 +21,7 @@ function scrambleMessages() {
 }
 
 export default {
-gooseModHandlers: {
+goosemodHandlers: {
 	// Activating module
 	onImport: async function () {
 		goosemodScope.logger.debug('scrambleMessages', 'Starting Scrambler...');

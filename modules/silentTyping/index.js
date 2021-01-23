@@ -3,7 +3,7 @@ const version = '1.0.4';
 let orig;
 
 export default {
-gooseModHandlers: {
+goosemodHandlers: {
   onImport: async function () {
     let mod = goosemodScope.webpackModules.findByProps('startTyping');
     orig = mod.startTyping;

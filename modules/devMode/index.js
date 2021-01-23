@@ -1,7 +1,7 @@
 let version = '3.0.1';
 
 export default {
-gooseModHandlers: {
+goosemodHandlers: {
   onImport: async function() {
     goosemodScope.logger.debug('devMode', 'Enabling Developer Mode');
 

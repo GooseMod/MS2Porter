@@ -18,7 +18,7 @@ const handler = async () => {
 let interval;
 
 export default {
-gooseModHandlers: {
+goosemodHandlers: {
   onImport: async function () {
     interval = setInterval(handler, 1000);
   },

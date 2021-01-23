@@ -52,7 +52,7 @@ const setMobileIcon = (value) => {
 };
 
 export default {
-gooseModHandlers: {
+goosemodHandlers: {
   onImport: async () => {
     setMobileIcon(settings.mobileIcon);
   },

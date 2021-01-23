@@ -169,7 +169,7 @@ const css = `.connectedAccount-36nQx7 {
 }`;
 
 export default {
-gooseModHandlers: {
+goosemodHandlers: {
   onImport: async function () {
     el = document.createElement('style');
 
