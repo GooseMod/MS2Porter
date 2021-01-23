@@ -61,7 +61,6 @@ gooseModHandlers: {
 
 
 
-    "Toggles whether the buttons on the message box should appear. (Right click the message box to toggle.)",
 
 
 }
