@@ -3,6 +3,8 @@ import glob from 'glob';
 import { rmSync, mkdirSync, readFileSync, writeFileSync } from 'fs';
 import { exec } from 'child_process';
 
+const excludeModules = [ 'copyRaw' ];
+
 import { dirname } from 'path';
 import { fileURLToPath } from 'url';
 
@@ -21,7 +23,9 @@ resetDir(outDir);
 
 await new Promise((res) => exec(`git clone https://github.com/GooseMod/Modules.git ${cloneDir}`, res));
 
-const modules = glob.sync(`${cloneDir}/modules/**/*.js`);
+const modules = glob.sync(`${cloneDir}/modules/**/*.js`).filter((x) => !excludeModules.includes(x.split('/').pop().split('.')[0]));
+
+console.log(modules);
 
 const modulesJsCode = [];
 
