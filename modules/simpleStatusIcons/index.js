@@ -6,7 +6,7 @@ goosemodHandlers: {
   onImport: async function () {
     let sheet = window.document.styleSheets[0];
 
-    sheet.insertRule(`body.simple-status-icons .pointerEvents-2zdfdO:not([mask="url(#svg-mask-status-online-mobile)"]) {
+    sheet.insertRule(`body.simple-status-icons .pointerEvents-9SZWKj:not([mask="url(#svg-mask-status-online-mobile)"]) {
       mask: url(#svg-mask-status-online) !important;
     }`, sheet.cssRules.length);
 
